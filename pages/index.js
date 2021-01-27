@@ -47,7 +47,7 @@ export default function Home() {
           <Widget.Content>
             <h1>Quizes da Galera</h1>
 
-            <p>lorem ipsum dolor sit amet...</p>
+            <p>lorem ipsum dolor janaina...</p>
           </Widget.Content>
         </Widget>
         <Footer />
