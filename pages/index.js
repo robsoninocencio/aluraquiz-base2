@@ -32,6 +32,11 @@ export default function Home() {
         <Widget>
           <Widget.Header>
             <h1>{db.title}</h1>
+            <meta
+              key="h1"
+              property="og:image"
+              content={db.bg}
+            />
           </Widget.Header>
           <Widget.Content>
             <p>{db.description}</p>
